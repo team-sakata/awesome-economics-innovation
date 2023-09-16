@@ -6,6 +6,7 @@ A curated list of awesome **Economics and Innovations** resources, libraries and
 - [IAMOT](https://www.iamot2024.com/) - International Association for Management of Techonology
 
 ## Databases
+- [Lens](https://www.lens.org/) - Free Patent DB
 
 ## Libraries, Softwares
 
