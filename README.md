@@ -12,13 +12,10 @@ A curated list of awesome **Economics and Innovations** resources, libraries and
 ## Books, Slides and Review papers
 
 ## Journals
-- [TSFC](https://www.issi-society.org/conferences/) - The International Society for Scientometrics and Informetrics
-- Research Policy
-- Nature
-- Nature Human Behavior
-- Nature Communications
-- Science
-- Science Advance
-- ProNAS
+- 総合誌（Nature communications / Science Advances / PNAS / Scientific Reports / Plos One）
+- 物理系（Nature Physics / Communications Physics / Physical Review E）
+- 経済系（Research Policy / Regional Studies / Journal of Economic Geography）
+- 技術系（Technological Forecasting and Social Change / Technnovation）
+- 環境系（Nature Sustainability / Communications Earth & Environment）
 
 ## Researchers
